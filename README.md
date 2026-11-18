@@ -1,11 +1,11 @@
 # Washout-turn cbBTC bot — btc-race-24h-20261118-1444
 
-![bounty](https://make.fun/api/competitions/btc-race-24h-20261118-1444/badge/bounty)
-![rank](https://make.fun/api/competitions/btc-race-24h-20261118-1444/badge/rank)
-![reward](https://make.fun/api/competitions/btc-race-24h-20261118-1444/badge/reward)
+[![bounty](https://make.fun/badge/btc-race-24h-20261118-1444.svg)](https://make.fun/bounty/btc-race-24h-20261118-1444)
+[![rank](https://make.fun/badge/btc-race-24h-20261118-1444/fadlisick/btc-race-18-entry/rank.svg)](https://make.fun/bounty/btc-race-24h-20261118-1444)
+[![reward](https://make.fun/badge/btc-race-24h-20261118-1444/fadlisick/btc-race-18-entry/reward.svg)](https://make.fun/bounty/btc-race-24h-20261118-1444)
 
 A mean-reversion bot for the 24-hour BTC race: it trades Coinbase Wrapped BTC
-(cbBTC) on 1-minute on-chain prices with $1,000 of paper money.
+(cbBTC) on 5-minute bars with $1,000 of paper money.
 
 ## Strategy
 
